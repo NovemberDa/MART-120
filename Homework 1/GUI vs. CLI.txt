@@ -1,0 +1,6 @@
+After experimenting with both the GUI and CLI, I found that, by a landslide, the CLI was much harder to use than the GUI! It is completely new to me,
+it's something I've worked with before when I was doing some trouble-shooting on my hardware, but often times I just pasted a line of command into the CLI that
+I found on Google. I will definitely have to experiment much more with the CLI; I've been using the GUI for years at this point so it's natural for me to create files
+and folders on the fly; I'm sure once I get used to CLI, I will have a much easier time with it and breeze through it. I find it intersting that computers can understand 
+a jumble of characters, which makes zero sense to me, and create files and folders on the fly. More than likely, I will stick with GUI as it's friendly and easy to use, 
+but I will take the time to learn CLI, especially if I go into some sort of computer career in the future.
